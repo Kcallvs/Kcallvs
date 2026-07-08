@@ -16,7 +16,7 @@
 </p>
 
 ---
-
+ 
 ### 📊 Estatísticas
  
 <p align="center">
@@ -36,9 +36,6 @@
   />
 </p>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kcallvs&theme=radical" alt="GitHub Streak" />
-</p>
 ---
  
 ### 📫 Como me encontrar
@@ -51,3 +48,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">✨ Obrigado pela visita!</p>
