@@ -21,12 +21,25 @@
 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Kcallvs&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-stats-extended.vercel.app/api?username=Kcallvs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcallvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kcallvs&theme=radical" alt="GitHub Streak" />
 </p>
----
 
 ### 📫 Como me encontrar
 
