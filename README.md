@@ -18,16 +18,14 @@
 ---
 
 
-### 📊 Estatísticas
+📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kcallvs&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kcallvs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kcallvs&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Como me encontrar
