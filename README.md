@@ -17,9 +17,6 @@
 
 ---
 
-
-📊 Estatísticas
-
 ### 📊 Estatísticas
  
 <p align="center">
@@ -54,4 +51,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<p align="center">✨ Obrigado pela visita!</p>
