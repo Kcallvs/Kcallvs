@@ -35,8 +35,8 @@
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kcallvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<br clear="both"/>
 </p>
-
 ---
  
 ### 📫 Como me encontrar
